@@ -1,39 +1,61 @@
+<div align="center">
+
 # AakankshLabs
 
-### Building practical AI, automation, and data-informed product experiences.
+### AI · Products · Marketing · Analytics
 
-I'm Aakanksh Reddy — a marketing and business analytics professional with a product-design background. I work at the intersection of customer problems, business strategy, technology, and measurable growth.
+**Building practical digital experiences at the intersection of customer insight, business strategy, and technology.**
 
-## About me
+[![GitHub](https://img.shields.io/badge/GitHub-AakankshLabs-181717?style=for-the-badge&logo=github)](https://github.com/AakankshLabs)
+[![Project](https://img.shields.io/badge/Featured_Project-AI_Deal_Agent-5B6DCD?style=for-the-badge)](https://github.com/AakankshLabs/ai-deal-agent)
 
-- MBA in **Marketing and Business Analytics**
-- B.Des in **Footwear Design**
-- Business development experience at **Flashoot**
-- Interested in AI agents, business automation, product strategy, and analytics-led growth
+</div>
 
-## Current focus
+---
 
-- Exploring practical AI agents and automation workflows for businesses
-- Building product and marketing analytics projects
-- Turning customer needs into useful digital experiences
-- Learning and applying Python, Streamlit, and data tools
+## Hello, I'm Aakanksh
+
+I'm a marketing and business analytics professional with a background in product design. I enjoy translating customer and business problems into practical product ideas, measurable insights, and useful digital experiences.
+
+## Background
+
+- **MBA — Marketing and Business Analytics**
+- **B.Des — Footwear Design**
+- **Business development experience — Flashoot**
+- Interested in AI-enabled products, business automation, product strategy, and analytics-led growth.
+
+## Focus areas
+
+| Area | What I'm exploring |
+|---|---|
+| AI & automation | Useful AI agents and repeatable business workflows |
+| Product thinking | Customer problems, product experience, and prioritization |
+| Marketing analytics | Campaign measurement, customer insights, and data-informed decisions |
+| Digital experiences | Prototypes that connect usability with business value |
 
 ## Featured project
 
 ### [AI Deal Discovery & Marketing Agent](https://github.com/AakankshLabs/ai-deal-agent)
 
-A Streamlit prototype exploring budget-aware product discovery, rule-based deal matching, and marketing-copy generation.
+A Streamlit prototype for budget-aware product discovery. It uses a sample catalogue and keyword-based rules to surface matching products and draft supporting marketing copy.
 
-**Status:** Prototype. The current version uses a sample product catalogue and keyword-based matching. Live product feeds, semantic recommendations, and LLM-powered content are potential future improvements.
+**Status:** Prototype. Live product feeds, semantic recommendations, and LLM-powered generation are not implemented yet.
 
-## Skills & tools
+## Tools & skills
 
-| Area | Tools / skills |
-|---|---|
-| Analytics | Microsoft Excel, Power BI, Tableau |
-| Development | Python, Streamlit, HTML, CSS, JavaScript |
-| Business | Marketing, business development, product thinking |
-| AI exploration | AI tools, prompt design, automation concepts |
+**Analytics:** Microsoft Excel · Power BI · Tableau
+
+**Development:** Python · Streamlit · HTML · CSS · JavaScript
+
+**Business:** Marketing · Business Development · Product Thinking · Customer Experience
+
+**AI exploration:** AI tools · Prompt Design · Automation Concepts
+
+## What I'm building toward
+
+- Developing practical AI and automation solutions for businesses.
+- Strengthening my software and data skills through hands-on projects.
+- Building products grounded in customer needs and measurable outcomes.
 
 ## Connect
 
@@ -41,4 +63,8 @@ A Streamlit prototype exploring budget-aware product discovery, rule-based deal 
 
 ---
 
+<div align="center">
+
 *Curious by design. Analytical by approach. Building with purpose.*
+
+</div>
