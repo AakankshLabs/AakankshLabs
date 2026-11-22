@@ -52,7 +52,7 @@ A Streamlit prototype for budget-aware product discovery. It uses a sample catal
 
 A student-focused marketplace concept for discovering and exchanging campus products, with product listings and marketplace-style shopping interactions.
 
-**Project link:** [Open StudX](https://brand.site/studx)
+**Project links:** [Open live StudX](https://brand.site/studx) · [Read the portfolio case study](projects/studx/README.md)
 
 ## Tools & skills
 
