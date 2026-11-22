@@ -1,7 +1,8 @@
 # StudX — Student Exchange Marketplace
 
 **Project type:** Student marketplace concept  
-**My contribution:** Product conceptualisation and no-code development  
+**My contribution:** Product conceptualisation and no-code website development  
+**Website builder:** Design.com  
 **Live experience:** https://brand.site/studx  
 **Portfolio:** AakankshLabs
 
@@ -48,15 +49,15 @@ The screenshots supplied for this case study show the following pages and interf
 
 ## My role
 
-I worked on the product concept and its no-code implementation. The project demonstrates product thinking across the student marketplace journey, including:
+I worked on the product concept and built the website using Design.com. The project demonstrates product thinking across the student marketplace journey, including:
 
 - Defining a student-focused buying and selling proposition.
 - Structuring the experience around buyer and seller journeys.
 - Conceptualising product discovery, item posting, listing management, reservations, orders, and messaging.
 - Shaping the brand voice and visual direction for a campus audience.
-- Bringing the concept into a navigable no-code web experience.
+- Using a no-code website builder to bring the concept into a navigable web experience.
 
-The exact no-code platform used has not been confirmed, so it is intentionally not named here. This project should not be represented as custom-coded software development.
+This is a no-code website project, not a claim of custom-coded software development.
 
 ## Design direction
 
@@ -67,7 +68,7 @@ StudX uses a high-contrast black, red, and yellow palette, expressive display ty
 - Product conceptualisation
 - User journey and marketplace flow design
 - Buyer and seller experience mapping
-- No-code website development
+- Design.com no-code website building
 - Content and brand positioning
 - Interface and visual direction
 - Feature and page-structure planning
@@ -75,17 +76,16 @@ StudX uses a high-contrast black, red, and yellow palette, expressive display ty
 ## Project status and technical limitations
 
 - **Live link:** https://brand.site/studx
+- **Website builder:** Design.com
 - The screenshots document the visible pages and interface structure.
 - The original editable project export and underlying source files have not been added to this repository.
-- The no-code platform name is currently unknown.
 - Backend integrations and the operational status of actions shown in the UI have not been independently verified.
 
 ## Suggested next steps
 
-1. Confirm the no-code platform and add it to this case study.
-2. Capture a short walkthrough showing the key buyer and seller journeys.
-3. Clarify which interactions are functional and which are prototype/demo states.
-4. Add outcome measures if available, such as student sign-ups, listings created, or user feedback.
+1. Capture a short walkthrough showing the key buyer and seller journeys.
+2. Clarify which interactions are functional and which are prototype/demo states.
+3. Add outcome measures if available, such as student sign-ups, listings created, or user feedback.
 
 ---
 
