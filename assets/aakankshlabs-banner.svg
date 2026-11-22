@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">AakankshLabs — AI, Products, Marketing, Analytics</title>
+  <desc id="desc">A minimal premium technology banner with a monogram and flowing abstract gradient forms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset=".55" stop-color="#25213d"/>
+      <stop offset="1" stop-color="#3a2944"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9ec8c0"/>
+      <stop offset=".52" stop-color="#c6b3df"/>
+      <stop offset="1" stop-color="#f0b7c9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="18%" r="70%">
+      <stop offset="0" stop-color="#d9a9ca" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#d9a9ca" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="26" fill="url(#glow)"/>
+  <path d="M0 250 C180 160 250 340 450 250 S760 150 930 240 S1110 300 1200 205 L1200 320 L0 320Z" fill="url(#accent)" opacity=".12"/>
+  <path d="M0 278 C180 210 290 320 470 270 S760 205 940 270 S1110 300 1200 250" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".5"/>
+  <g transform="translate(78 74)">
+    <path d="M0 122 L58 0 L116 122 M25 70 H91" fill="none" stroke="#f7f2ee" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="120" cy="13" r="5" fill="#f0b7c9"/>
+  </g>
+  <text x="250" y="142" fill="#fbf7f5" font-family="Inter, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="2">AakankshLabs</text>
+  <text x="254" y="190" fill="#d8d2e0" font-family="Inter, Arial, sans-serif" font-size="20" letter-spacing="5">AI  ·  PRODUCTS  ·  MARKETING  ·  ANALYTICS</text>
+  <text x="254" y="238" fill="#c9c2d0" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing="1">Building practical digital experiences with purpose.</text>
+</svg>
