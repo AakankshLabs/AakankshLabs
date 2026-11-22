@@ -2,6 +2,12 @@
 
 # AakankshLabs
 
+<div align="center">
+
+<img src="assets/aakankshlabs-banner.svg" alt="AakankshLabs — AI, Products, Marketing, Analytics" width="100%" />
+
+</div>
+
 ### AI · Products · Marketing · Analytics
 
 **Building practical digital experiences at the intersection of customer insight, business strategy, and technology.**
